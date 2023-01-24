@@ -1,0 +1,4 @@
+Added Component: Designator=D2(Diode-DIP)
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=PWM Pin=D2-C
+Added Member To Class: ClassName=Controller Member=Component D2

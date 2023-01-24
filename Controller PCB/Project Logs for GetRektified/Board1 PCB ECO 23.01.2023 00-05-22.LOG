@@ -1,0 +1,99 @@
+Added Component: Designator=B1(36mt160)
+Added Component: Designator=C1(330uF400V)
+Added Component: Designator=C2(4.7uF400V)
+Added Component: Designator=C3(0.1nf1000V)
+Added Component: Designator=C4(100uF400V)
+Added Component: Designator=C5(4.7uF400V)
+Added Component: Designator=C6(0.1nf1000V)
+Added Component: Designator=C7(4.7uF400V)
+Added Component: Designator=C8(0.1nf1000V)
+Added Component: Designator=D1(Heatsýnk+Dýyot)
+Added Component: Designator=F1(Sýgorta)
+Added Component: Designator=I1(Nano)
+Added Component: Designator=K1(4mm Konnektor)
+Added Component: Designator=K2(4mm Konnektor)
+Added Component: Designator=K3(4mm Konnektor)
+Added Component: Designator=K4(4mm Konnektor)
+Added Component: Designator=K5(4mm Konnektor)
+Added Component: Designator=K6(4mm Konnektor)
+Added Component: Designator=K7(4mm Konnektor)
+Added Component: Designator=K8(8DIP)
+Added Component: Designator=K9(ACS)
+Added Component: Designator=M1(Heatsink+IGBT)
+Added Component: Designator=R1(10R)
+Added Component: Designator=R2(POT)
+Added Component: Designator=R3(10R)
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=5V Pin=K9-VCC
+Added Pin To Net: NetName=5V Pin=R2-3
+Added Pin To Net: NetName=5V Pin=I1-12
+Added Net: Name=5V
+Added Pin To Net: NetName=A0 Pin=K9-OUT
+Added Pin To Net: NetName=A0 Pin=I1-4
+Added Net: Name=A0
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=K6-1
+Added Pin To Net: NetName=GND Pin=K8-8
+Added Pin To Net: NetName=GND Pin=K9-GND
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=I1-14
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=K1-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=K3-1
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=K4-1
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetB1_+ Pin=B1-+
+Added Pin To Net: NetName=NetB1_+ Pin=C1-1
+Added Pin To Net: NetName=NetB1_+ Pin=C2-1
+Added Pin To Net: NetName=NetB1_+ Pin=C3-1
+Added Pin To Net: NetName=NetB1_+ Pin=C4-1
+Added Pin To Net: NetName=NetB1_+ Pin=C5-1
+Added Pin To Net: NetName=NetB1_+ Pin=C6-1
+Added Pin To Net: NetName=NetB1_+ Pin=D1-C
+Added Pin To Net: NetName=NetB1_+ Pin=K2-1
+Added Net: Name=NetB1_+
+Added Pin To Net: NetName=NetB1_- Pin=B1--
+Added Pin To Net: NetName=NetB1_- Pin=C1-2
+Added Pin To Net: NetName=NetB1_- Pin=C2-2
+Added Pin To Net: NetName=NetB1_- Pin=C3-2
+Added Pin To Net: NetName=NetB1_- Pin=F1-2
+Added Net: Name=NetB1_-
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_2 Pin=C6-2
+Added Pin To Net: NetName=NetC4_2 Pin=D1-A
+Added Pin To Net: NetName=NetC4_2 Pin=K5-1
+Added Pin To Net: NetName=NetC4_2 Pin=M1-C
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetD2_A Pin=M1-G
+Added Pin To Net: NetName=NetD2_A Pin=R1-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=M1-E
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetK8_2 Pin=K8-2
+Added Pin To Net: NetName=NetK8_2 Pin=I1-19
+Added Net: Name=NetK8_2
+Added Pin To Net: NetName=NetK8_3 Pin=K8-3
+Added Pin To Net: NetName=NetK8_3 Pin=R3-2
+Added Net: Name=NetK8_3
+Added Pin To Net: NetName=POT Pin=R2-2
+Added Pin To Net: NetName=POT Pin=I1-6
+Added Net: Name=POT
+Added Pin To Net: NetName=PWM Pin=K8-6
+Added Pin To Net: NetName=PWM Pin=K8-7
+Added Pin To Net: NetName=PWM Pin=R1-1
+Added Net: Name=PWM
+Added Pin To Net: NetName=Vin Pin=C7-1
+Added Pin To Net: NetName=Vin Pin=K7-1
+Added Pin To Net: NetName=Vin Pin=K8-5
+Added Pin To Net: NetName=Vin Pin=I1-15
+Added Net: Name=Vin
+Added Class: Name=Controller
